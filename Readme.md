@@ -15,7 +15,7 @@ Visual Pinger is a Chrome extension designed to detect Questions on the Expert p
 1. Clone the repository or download the project files to your local machine.
 
 ```bash
-git clone https://github.com/dwanerichard/visual-pinger.git
+git clone https://github.com/eswar1424/visual-pinger.git
 ```
 
 2. Open Google Chrome and navigate to `chrome://extensions/`.
