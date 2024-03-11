@@ -1,0 +1,13 @@
+{
+    "name": "Visual pinger",
+    "version": "1.0",
+    "description": "To detect changes in the website",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>","tabs"],
+    "content_scripts": [
+        {
+        "matches": ["https://expert.chegg.com/qna/authoring/answer"],
+        "js": ["background.js"]
+        }
+      ],
+    "manifest_version": 3
+}
